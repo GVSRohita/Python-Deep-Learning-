@@ -1,0 +1,750 @@
+Grammatical article in English, denoting person(s) or thing(s) already mentioned, under discussion, implied, or otherwise presumed familiar to listeners or readers. It is the only definite article in English
+For other uses, see The (disambiguation).
+For technical reasons, "The #1s" redirects here. For the band, see The No.1s.
+The /ðə, ðiː/ (listen) is a grammatical article in English, denoting persons or things already mentioned, under discussion, implied or otherwise presumed familiar to listeners or readers. It is the only definite article in English. The is the most commonly used word in the English language, accounting for seven percent of all words.[1] It is derived from gendered articles in Old English which combined in Middle English and now has a single form used with pronouns of either genders. The word can be used with both singular and plural nouns and with a noun that starts with any letter. This is different from many other languages which have different forms of the definite article for different genders or numbers.
+
+Contents
+
+1 Pronunciation
+2 Etymology
+3 Usage
+
+3.1 Geographical names
+
+
+4 Abbreviations for "the" and "that"
+
+4.1 Ye form
+
+
+5 References
+
+
+Pronunciation[edit]
+In most dialects, "the" is pronounced as /ðə/ (with the voiced dental fricative /ð/ followed by a schwa) when followed by a consonant sound, and as /ðiː/ (homophonous with thee) when followed by a vowel sound or used as an emphatic form.[2] In modern American English, however, there is an increasing tendency to limit the usage of the latter pronunciation to emphatic purposes and use the former even before a vowel.[3] The same change is happening in New Zealand English.[4]
+In some Northern England dialects of English, the is pronounced [t̪ə] (with a dental t) or as a glottal stop, usually written in eye dialect as ⟨t⟩; in some dialects it reduces to nothing. This is known as definite article reduction.
+In dialects that do not have the voiced dental fricative /ð/, the is pronounced with the voiced dental plosive, as in /d̪ə/ or /d̪iː/).
+
+Etymology[edit]
+The and that are common developments from the same Old English system. Old English had a definite article se (in the masculine gender), sēo (feminine), and þæt (neuter). In Middle English, these had all merged into þe, the ancestor of the Modern English word the.[5]
+
+Usage[edit]
+The principles of the use of the definite article in English are described under "Use of articles".  The word the as in phrases like "the more the better", has a distinct origin and etymology and by chance has evolved to be identical to the definite article.[6] (See the Wiktionary entry the.)
+
+Geographical names[edit]
+An area in which the use or non-use of the is sometimes problematic is with geographic names. Names of rivers, seas, mountain ranges, deserts, island groups (archipelagoes) and the like are generally used with the definite article (the Rhine, the North Sea, the Alps, the Sahara, the Hebrides). Names of continents, individual islands, countries, regions, administrative units, cities and towns mostly do not take the article (Europe, Jura, Austria, Scandinavia, Yorkshire, Madrid). However, there are certain exceptions:
+
+Countries and territories the names of which derive from common nouns such as "kingdom" or "republic" take the article: the United States, the United Kingdom, the Soviet Union, the Czech Republic.[7]
+Countries and territories the names of which derive from "island" or "land", however, only take the definite article if they represent a plural noun: the Netherlands, the Falkland Islands, the Faroe Islands, and the Cayman Islands, even the Philippines or the Comoros do, though the plural noun "islands" is omitted there. The (singular) Greenland on the other hand does not take the definite article, and neither does Christmas Island or Norfolk Island. Exceptions include "the North Island" (of New Zealand).
+Certain countries and regions the names of which derive from mountain ranges, rivers, deserts, etc., are sometimes used with an article even though in the singular (the Lebanon, the Sudan, the Yukon),[8] but this usage is declining, although the Gambia remains the recommended name of that country. Since the independence of Ukraine (formerly sometimes called the Ukraine), most style guides have advised dropping the article[9] (in some other languages there is a similar issue involving prepositions). Use of the Argentine for Argentina is considered old-fashioned.
+Some names include an article, such as the Bronx or The Hague.
+Names beginning with a common noun followed by of may take the article, as in the Isle of Wight or the Isle of Portland (compare Christmas Island). The same applies to names of institutions: Cambridge University, but the University of Cambridge.
+Abbreviations for "the" and "that"[edit]
+ Barred thorn (after Ælfric)
+Since "the" is one of the most frequently used words in English, at various times short abbreviations for it have been found:
+
+Barred thorn: the earliest abbreviation, it is used in manuscripts in the Old English language. It is the letter þ with a bold horizontal stroke through the ascender, and it represents the word þæt, meaning "the" or "that" (neuter nom. / acc.).
+þͤ and þͭ (þ with a superscript e or t) appear in Middle English manuscripts for "þe" and "þat" respectively.
+yͤ and yͭ are developed from þͤ and þͭ and appear in Early Modern manuscripts and in print (see Ye form below).
+Occasional proposals have been made by individuals for an abbreviation.  In 1916, Legros & Grant included in their classic printers' handbook Typographical Printing-Surfaces, a proposal for a letter similar to Ħ to represent "Th", thus abbreviating "the" to ħe.[10]  Why they did not propose reintroducing to the English language "þ", for which limited quantities of blocks may have already been available for use in Icelandic texts, or the yͤ form is unknown.
+
+Ye form[edit]
+See also: Ye olde
+In Middle English, the (þe) was frequently abbreviated as a þ with a small e above it, similar to the abbreviation for that, which was a þ with a small t above it. During the latter Middle English and Early Modern English periods, the letter thorn (þ) in its common script, or cursive form, came to resemble a y shape. As a result, the use of a y with an e above it () as an abbreviation became common. This can still be seen in reprints of the 1611 edition of the King James Version of the Bible in places such as Romans 15:29, or in the Mayflower Compact. Historically, the article was never pronounced with a y sound, even when so written.
+
+References[edit]
+
+
+^ Norvig, Peter. "English Letter Frequency Counts: Mayzner Revisited"..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "the – definition". Merriam Webster Online Dictionary.
+
+^ Ladefoged, Peter; Johnson, Keith (2010). A Course in Phonetics (6th ed.). Boston: Wadsworth. p. 110.
+
+^ Hay, Jennifer (2008). New Zealand English. Edinburgh: Edinburgh University Press. p. 44.
+
+^ "The and That Etymologies". Online Etymology Dictionary. Retrieved 18 June 2015.
+
+^ "the, adv.1." OED Online. Oxford University Press, March 2016. Web. 11 March 2016.
+
+^ Using ‘the’ with the Names of Countries
+
+^ Swan, Michael How English Works, p. 25
+
+^ Ukraine or "the Ukraine"? by Andrew Gregorovich, infoukes.com
+
+^ Missed Opportunity for Ligatures
+
+
+
+
+
+2019 fantasy drama television series
+This article is about 2019 Netflix TV series. For the Polish TV series also based on Andrzej Sapkowski's works, see The Hexer (TV series).
+
+
+The WitcherGenre
+Fantasy
+Serial drama
+Adventure
+Action
+Created byLauren Schmidt HissrichBased onThe Witcherby Andrzej SapkowskiStarring
+Henry Cavill
+Freya Allan
+Eamon Farren
+Anya Chalotra
+Joey Batey
+MyAnna Buring
+Royce Pierreson
+Mimi Ndiweni
+Wilson Radjou-Pujalte
+Anna Shaffer
+Mahesh Jadu
+Composer(s)
+Sonya Belousova
+Giona Ostinelli
+Country of origin
+United States
+Poland[1][2]
+Original language(s)EnglishNo. of seasons1No. of episodes8 (list of episodes)ProductionExecutive producer(s)
+Sean Daniel[3]
+Jason Brown[3]
+Tomasz Bagiński[3]
+Jarosław Sawko[3]
+Lauren Schmidt Hissrich
+Alik Sakharov
+Producer(s)
+Mike Ostrowski
+Cinematography
+Jean-Philippe Gossart
+Gavin Struthers
+Editor(s)
+Liana Del Giudice
+Nick Arthurs
+Jean-Daniel Fernandez-Qundez
+Xavier Russell
+Camera setupSingle-cameraRunning time47–67 minutesProduction company(s)
+Sean Daniel Company[3][4]
+Stillking Films[4][5]
+Platige Image[3][4]
+One of Us[6]
+Cinesite[7]
+DistributorNetflixReleaseOriginal networkNetflixPicture format
+4K (Ultra HD)
+High dynamic range
+Audio format5.1 surround soundOriginal releaseDecember 20, 2019 (2019-12-20) –present (present)External linksWebsite
+The Witcher is an American fantasy drama series produced by Lauren Schmidt Hissrich.  It is based on the book series of the same name by Polish writer Andrzej Sapkowski. The first season, consisting of eight episodes, was released on Netflix in its entirety on December 20, 2019. Before the first season had been released, Netflix announced a second eight-episode season, to be released in 2021; production was scheduled to commence in London in early 2020.[8]
+Set in a fictional world, on a landmass known as "the Continent" where the culture is styled in a mix of fantasy elements from the Middle Ages and Renaissance,The Witcher explores the legend of Geralt and Ciri, and follows the story of solitary monster hunter Geralt of Rivia (Henry Cavill), sorceress Yennefer of Vengerberg (Anya Chalotra), and Cintran princess Ciri (Freya Allan). The first season is based on The Last Wish and Sword of Destiny, a collection of short stories which precede the main Witcher saga.  It explores formative events that shaped the three lead characters, prior to their first encounters with each other.
+
+Contents
+
+1 Plot
+2 Cast and characters
+
+2.1 Main
+2.2 Recurring
+2.3 Notable guests
+
+
+3 Episodes
+4 Production
+
+4.1 Development
+4.2 Writing
+4.3 Casting
+4.4 Filming
+4.5 Music
+
+
+5 Release
+6 Reception
+
+6.1 Critical reception
+6.2 Audience viewership
+
+
+7 References
+8 External links
+
+
+Plot[edit]
+Geralt of Rivia is a witcher, a mutant with special powers who kills monsters for coins. The land is in a state of turmoil, due to the empire of Nilfgaard seeking to enlarge its territory through the invasion of neighbouring provinces. Among the refugees of this struggle is Cirilla, also known as Ciri, the Princess of Cintra, who is being pursued by Nilfgaard. Ciri and Geralt are destined to each other. In his adventures Geralt also meets Yennefer, a sorceress, with whom he and Ciri shares their adventures together.
+
+Cast and characters[edit]
+See also: List of characters in The Witcher series
+Main[edit]
+Henry Cavill as Geralt of Rivia, a magically enhanced monster-hunter known as a "witcher". Cintran princess Ciri is his destiny.
+Freya Allan as Cirilla "Ciri", the crown princess of Cintra, granddaughter of Queen Calanthe and daughter of Pavetta; who possesses magical powers. She is linked to Geralt by destiny before her birth.
+Eamon Farren as Cahir Mawr Dyffryn aep Ceallach, a Nilfgaardian army commander who leads the invasion of Cintra and the hunt for Cirilla.
+Anya Chalotra as Yennefer of Vengerberg, a quarter-elf sorceress whose path crosses with Geralt's on several occasions because of a spell.
+Joey Batey as Jaskier, a travelling bard who befriends Geralt and accompanies him on his path.
+MyAnna Buring as Tissaia de Vries, mentor to Yennefer and the Rectoress of Aretuza, a training academy for female mages.
+Royce Pierreson as Istredd, an adept sorcerer and historian who befriended Yennefer at Aretuza.
+Mimi Ndiweni as Fringilla Vigo, a sorceress who trained alongside Yennefer. She eventually leads the Nilfgaardian invasion alongside Cahir.
+Wilson Radjou-Pujalte as Dara, a refugee elf boy whom Cirilla befriends after the Slaughter of Cintra.
+Anna Shaffer as Triss Merigold, a sorceress, the court mage of Temeria and advisor to King Foltest.
+Mahesh Jadu as Vilgefortz of Roggeveen, a charismatic sorcerer who rallies the northern mages to halt the invading Nilfgaardian army in Sodden.
+Recurring[edit]
+Jodhi May as Queen Calanthe, ruler of the Kingdom of Cintra and grandmother of Princess Cirilla.
+Adam Levy as Mousesack, the court druid of Cintra and advisor to Queen Calanthe.
+Björn Hlynur Haraldsson as King Eist Tuirseach, husband to Queen Calanthe and step-grandfather of Cirilla.
+Lars Mikkelsen as Stregobor, resident mage in the town of Blaviken and the Rector of Ban Ard, the academy for male mages
+Emma Appleton as Renfri of Creyden, a princess-turned-bandit nicknamed "Shrike,” who leads a gang of brigands and has a bloody grudge against Stregobor.
+Maciej Musiał as Sir Lazlo, a Cintran knight charged with protecting Cirilla.
+Tobi Bamtefa as Sir Danek, a Cintran commander of Calanthe's royal guard
+Therica Wilson-Read as Sabrina Glevissig, a sorceress who trained alongside Yennefer.
+Shaun Dooley as King Foltest, the king of Temeria, whose incestuous relationship with his sister created a daughter.
+Terence Maynard as Artorius Vigo, court mage from Toussaint and uncle of Fringilla.
+Judit Fekete as Vanelle of Brugge, a sorceress and one of the mages who died during the Battle of Sodden Hill.
+Josette Simon as Eithne, the Queen of the Dryads of Brokilon Forest.
+Nóra Trokán as the Dryad General
+Anna-Louise Plowman as Zola, Yurga's wife who offers Cirilla sanctuary in her rural home in Sodden.
+Notable guests[edit]
+
+Mia McKenna-Bruce as Marilka, a girl who works for Stregobor.
+Amit Shah as Torque, a sylvan ("horned devil") that works for Filavandrel.
+Julian Rhind-Tutt as Giltine, the enchanter of Aretuza who brings adepts into their perfect physical forms after they graduate.
+Gaia Mondadori as Princess Pavetta, the daughter of Queen Calanthe and mother of Ciri.
+Bart Edwards as Urcheon of Erlenwald/Duny, a knight afflicted by a curse that transforms him into a hedgehog man until midnight, Pavetta's lover, betrothed by oath.
+Marcin Czarnik as Ronin Mage, an assassin sent to murder Queen Kalis and her baby daughter
+Lucas Englander as Chireadan, a healer elf from the Redanian city of Rinde.
+Jordan Renzo as Eyck of Denesle, a virtuous knight.
+Ron Cook as Borch Three Jackdaws, a man who is actually the golden dragon Villentretenmerth.
+Ella-Rae Smith as Fola, a young sorceress in Aretuza.
+Francis Magee as Yurga, a travelling merchant in Sodden, rescued from monsters by Geralt.
+Frida Gustavsson as Ma/Visenna, mother of Geralt of Rivia
+
+Episodes[edit]
+The first season is based on The Last Wish and Sword of Destiny.
+
+No.TitleDirected byWritten byOriginal release date1"The End's Beginning"Alik SakharovLauren Schmidt HissrichDecember 20, 2019 (2019-12-20)
+Following Geralt of Rivia's battle with a kikimora, he enters the town of Blaviken and meets Renfri, a cursed princess-turned-bandit hunted by the wizard Stregobor, who thinks her evil for her birth during an eclipse. Stregobor lures Geralt to his hideout seeking to hire him to kill Renfri, but Geralt refuses. Renfri later offers Geralt a counter-proposal, but he refuses with an ultimatum: leave or die. She feigns agreement, but upon waking up the next morning, Geralt realizes Renfri will not stop until Stregobor is dead, and he rushes to stop her. After killing her men, he fights and fatally wounds Renfri, and her dying words told him of a girl in the forest who is his destiny forever. Stregobor arrives to take Renfri's body for autopsy. When Geralt opposes, the townsfolk force him to leave, urged on by Stregobor. The kingdom of Cintra is conquered by southern neighbor Nilfgaard, and Princess Cirilla, also known as Ciri, is sent away by her grandmother, Queen Calanthe, to escape and find Geralt. Cirilla is captured by Nilfgaardian officer Cahir, but the sight of the burning city and castle trigger her powers, allowing her to escape.
+
+
+Based on "The Lesser Evil" from The Last Wish.[9]
+2"Four Marks"Alik SakharovJenny KleinDecember 20, 2019 (2019-12-20)
+Hunchback Yennefer from Vengerberg of Aedirn is sold to Tissaia de Vries by her father. She is taken to Aretuza, for training in magic, but finds difficulty in the practice. She makes a friendship with Istredd, even revealing her quarter-elf heritage, a cause of her deformity. Unbeknownst to either, Tissaia and Stregobor were using Yennefer and Istredd respectively to spy on each other. Later, Yennefer witnesses Tissaia turning three students into eels to act as conduits powering Aretuza with magic. Geralt is hired to investigate grain thefts in Posada and is followed by Jaskier the bard. They encounter a Sylvan[disambiguation needed] named Torque, who knocks them unconscious and takes them to his mountain cave. There, Geralt meets Filavandrel, the elven king and urges he lead his people to better lands after being banished by the humans. Instead of killing them, Filavandrel frees Geralt and Jaskier, taking the former's words to heart. Cirilla encounters Dara, a boy in the woods, who guides her to a refugee camp. Dara returns to save her as the camp is attacked by Cahir's forces, and she later realizes Dara is an elf.
+
+
+Based on "The Edge of the World" from The Last Wish.[9]
+3"Betrayer Moon"Alex Garcia LopezBeau DeMayoDecember 20, 2019 (2019-12-20)
+Yennefer and Istredd become lovers while finishing their training. While Yennefer has the chance to transform her body into her ideal image during graduation, the Brotherhood of Sorcerers discuss the allocation of their newly initiated to their respective kingdoms. But through Stregobor's scheme, Yennefer is assigned to Nilfgaard instead of her preferred Aedirn due to her elven blood. Realizing what happened, Yennefer angrily breaks up with Istredd knowing only he could have told Stregobor about her blood. Having missed graduation, Yennefer undergoes the painful transformation to be beautiful at the cost of her fertility. Yennefer charms Aedirn's King Virfuril into taking her as advisor, sending Fringilla to Nilfgaard instead. Geralt enters the kingdom of Temeria investigating a monster and is assisted by Triss Merigold, King Foltest's sorceress advisor. He identifies the monster as a Shtriga, a creature born from a curse he later discovered was placed by the courtier Ostrit who learned about the affair between Foltest and his sister, Princess Adda. Using Ostrit as bait, Geralt battles to contain the shtriga until dawn which lifts the curse. Cirilla enters a dense forest in a trance as Dara follows to help.
+
+
+Based on "The Witcher" from The Last Wish.[9]
+4"Of Banquets, Bastards and Burials"Alex Garcia LopezDeclan de BarraDecember 20, 2019 (2019-12-20)
+Having served Aedirn for three decades, Yennefer escorts Queen Kalis of Lyria when they are ambushed by an assassin. The assassin follows them through multiple portals, killing Kalis. Although Yennefer escapes with Kalis's newborn daughter, the baby dies from a thrown dagger. Geralt accompanies Jaskier to the betrothal feast of Princess Pavetta, Queen Calanthe's daughter. Urcheon of Erlenwald (also named Duny) interrupts to demand Pavetta's hand through the Law of Surprise, having saved her father years earlier. Urcheon suffers from a curse that transformed him into a hedgehog/man creature. Despite Pavetta's acceptance, Calanthe refuses and a brawl ensues. When Calanthe tries killing Urcheon, Pavetta activates her power, unleashing a maelstrom until Geralt and Mousesack intervene. Wanting her daughter happy, Calanthe marries Duny and Pavetta, which lifts Duny's curse. Duny, thankful for Geralt's aid, insists he take a reward, so Geralt jokingly invokes the Law of Surprise for something Duny has but doesn't yet know. The crowd then immediately learns Pavetta is pregnant with Duny's child. In the present, Nilfgaard's forces resume their pursuit of Cirilla with Mousesack as their prisoner. Meanwhile, Cirilla and Dara encounter Queen Eithne and her Dryads in Brokilon Forest, while Cahir and Fringilla track Ciri's location.
+
+
+Based on "A Question of Price" from The Last Wish, and "Sword of Destiny" from Sword of Destiny.[9]
+5"Bottled Appetites"Charlotte BrändströmSneha KoorseDecember 20, 2019 (2019-12-20)
+Several years after Pavetta's betrothal, Geralt and Jaskier discover a Djinn and accidentally release it. Initially, it seems that Jaskier is the Djinn's 'master' but then he falls seriously ill. Geralt seeks help from the nearest healer, the elf Chireadan, but as they need a mage to heal Jaskier, Chireadan reluctantly refers them to Yennefer. Although Yennefer cures Jaskier, her plan is to use him to capture the Djinn to grant her wish of regaining her fertility. As Jaskier uses his last wish, nothing happens and it's revealed that it is Geralt, not Jaskier, who actually has the wishes. Geralt realises the Djinn will kill Yennefer, so he uses his third and final wish to save her (but the wish itself is not revealed). The Djinn leaves. Now free and safe, Geralt and Yennefer act on their attraction and have sex. Yennefer asks what his third wish was, but Geralt does not answer as he has finally fallen asleep. Cahir hires a doppler to assume the identity of Mousesack by copying his form and memories, then kills him. Later, Eithne allows Ciri to stay in Brokilon, but "Mousesack" arrives requesting Ciri and Dara leave with him.
+
+
+Based on "The Last Wish" from The Last Wish.[9]
+6"Rare Species"Charlotte BrändströmHaily HallDecember 20, 2019 (2019-12-20)
+Geralt, Jaskier, and Yennefer are invited to join a dragon hunt by adventurer Borch and his two bodyguards Téa and Véa. Yennefer's knight joins the party along with a band of dwarves and Reavers, professional monster hunters. After camping overnight, the party finds the knight dead and the Reavers have departed. The dwarves take their party to a mountain shortcut, but the bridge gives way. Borch's group sacrifices themselves rather than endanger the party. Geralt and Yennefer reconcile before reaching the dragon's den, but find it dead with Téa and Véa alive guarding the dragon's egg. Borch reveals himself as Vilentretenmerth, a golden dragon. The five of them defend the egg from the Reavers. Borch later pays off the dwarves with dragon teeth, and Geralt reveals to Yennefer his third wish bound their fates together. Dara grows suspicious over "Mousesack", so Ciri questions him and the doppler reveals himself. In the scuffle, Dara is knocked out as Ciri escapes, but is captured by Cahir. "Ciri" reveals itself as the Doppler and fights Cahir before escaping. Dara frees the real Ciri, but leaves her. Cahir and Fringilla plan their next move.
+
+
+Based on "The Bounds of Reason" from Sword of Destiny.[9]
+7"Before a Fall"Alik Sakharov & Marc JobstMike OstrowskiDecember 20, 2019 (2019-12-20)
+With Nilfgaard poised to invade Cintra, Geralt decides to invoke his Law of Surprise: Ciri. Calanthe offers up an imposter for Ciri, but Geralt is not fooled and is imprisoned by King Tuirseach. After visiting Istredd, Yennefer returns to Aretuza with the sorcerer Vilgefortz. When he announces his intention to rally mages to oppose Nilfgaard, she declines. The Brotherhood votes to remain neutral, but Tissaia, Vilgefortz, Triss and other mages resolve to fight. Tissaia convinces Yennefer to join. Nilfgaard invades, sacking the city and breaching the castle. Calanthe wants to send Ciri away with Geralt, but he has escaped his cell and is nowhere to be found. Ciri fends for herself after escaping Cintra. Later, she is discovered by her old friends who suddenly turn on her, and her powers activate.
+
+
+Based on "Something More" from Sword of Destiny.[9]
+8"Much More"Marc JobstLauren Schmidt HissrichDecember 20, 2019 (2019-12-20)
+Yennefer and the mages reinforce the strategic keep of Sodden Hill, aiming to prevent Nilfgaardian forces from invading the rest of the Northern Kingdoms. Having escaped from Cintra and searching for Ciri, the girl who is his destiny, Geralt encounters a merchant burying the bodies of dead refugees. He defends the man from undead monsters, but is wounded and loses consciousness. Ciri is awakened by the woman she met earlier and discovers the dead bodies of her harassers around her, killed in gruesome ways. The woman takes her to her farm. The Nilfgaardians launch their attack, with both sides utilizing magic and inflicting heavy casualties on each other. Tissaia attempts to talk down Fringilla, but Fringilla disables her. Vilgefortz fights Cahir, but loses and is thrown down a hill. Geralt wakes to find himself on the merchant's cart en route to the man's farm. When Vilgefortz wakes up, he kills a Northern sorcerer, revealing himself to be a turncoat. When Nilfgaardian soldiers begin to overrun the fort, Yennefer channels a massive stream of fire, then seemingly disappears. In his delirious state, Geralt dreams about his mother Visenna. He later arrives at the same farm, and upon hearing the woman talk to the man about Ciri, heads into the forest. Seeing a vision of Geralt, Ciri wakes up and wanders into the forest, where she and Geralt finally meet, and hug each other.
+
+
+Based on "Something More" from Sword of Destiny.[9]
+Production[edit]
+Development[edit]
+Andrzej Sapkowski's The Witcher book series was almost adapted into a standalone Netflix film but Kelly Luegenbiehl, Vice President of International Originals at Netflix, dissuaded the producers. She recalled asking them, "How can you take eight novels and just turn it into a film? There's so much material here. Through a number of conversations, the producers got really excited about the idea of using the source material for a longer-running series."[10] In May 2017, Netflix announced the start of production on an English-language drama TV series based on the books.[11][12]
+In December 2017, it was reported that Lauren Schmidt Hissrich would serve as showrunner on the show.[13] In April 2018, Schmidt Hissrich revealed that the script for the pilot episode was finished, and the first season would be eight episodes long.[14] In 2017, it was reported that Andrzej Sapkowski would serve as a creative consultant on the show, but in January 2018, Sapkowski denied any direct involvement.[15] However, he met with Schmidt Hissrich in April 2018[16][17] and in May 2018 she stated that Sapkowski was on the creative team of the project.[18] In August, Andrew Laws was revealed as production designer.[19] In December, Radio Times reported directors Alik Sakharov and Charlotte Brändström had joined the project.[20]
+Netflix announced a second season on November 13, 2019,[21] with production set to begin in London in early 2020, for a planned release in 2021.[22]
+
+Writing[edit]
+The first season was told in a non-linear manner, spanning different time periods. Hissrich said this was inspired by Christopher Nolan's 2017 film Dunkirk.[23] He pointed out that Yennefer's story covers around 70 years and Ciri's only about 2 weeks.[24] Hissrich also said that Yennefer and Cirilla were given more prominence to allow the viewers to understand them better. By showing their backstories, along with Geralt's, “ we get down to the soul of the story. It's the story of a broken family. It's a story of three people who are on their own in the world, really orphans all living in the margins of society who are determined to not need anyone, and yet of course they do.”[25]
+Hissrich said the story for the second season will build on the foundations of the first season, becoming more focused; the characters will interact with each other more frequently.[26]
+
+Casting[edit]
+ Freya Allan, Henry Cavill and Anya Chalotra at the 2019 San Diego Convention for The Witcher
+In September 2018, Netflix announced that Henry Cavill would play Geralt of Rivia.[27][28] He was selected from more than 200 actors.[29] In October 2018, Freya Allan and Anya Chalotra were cast as Princess Cirilla and Yennefer of Vengerberg respectively, while Jodhi May, Björn Hlynur Haraldsson, Adam Levy, MyAnna Buring, Mimi Ndiweni, and Therica Wilson-Read also joined.[30] More casting was announced later that month, including Eamon Farren, Joey Batey, Lars Mikkelsen, Royce Pierreson, Maciej Musiał, Wilson Radjou-Pujalte, and Anna Shaffer.[31]
+
+Filming[edit]
+In April 2018, Schmidt Hissrich revealed that the show would be filmed in Central and Eastern Europe.[32]
+Principal photography for the first season began on October 31, 2018, in Hungary.[31] Much of the series was filmed at Mafilm Studios near Budapest; the outdoor set included the exterior of wizard  Stregobor's household. The hall in Cintra was constructed at Origo Studios on the outskirts of Budapest. Fort Monostor (Monostori Erod), and the nearby forest was used for some exterior scenes in Cintra. The Battle of Marnadal was filmed in the hills of a village in Hungary, Csákberény. The village that was Yennefer's original home was filmed at the Skanzen Village Museum, an open-air site near Szentendre some 30 kilometres (20 mi) north of Budapest; this location was also used in scenes with Ciri in an area with a windmill. The production used the exteriors of Burg Kreuzenstein, a castle near Leobendorf, Austria, for the abandoned fictional castle Vizima, but the interiors were filmed at Origo Studios.[33]
+In March 2019, production commenced on Gran Canaria, in the Canary Islands, Spain. Some scenes were to be shot on the islands of La Palma and La Gomera, as well.[34] Scenes of the Sorcerers' Aretuza Academy (Tower of the Gull) were shot on Roque de Santo Domingo in Garafía, an islet, and enhanced with CGI. However, the interiors used for the graduation ball were at the Kiscelli Museum in Óbuda. The museum was a monastery in the 18th century. This location was also used for the conclave of the Northern Mages. The Barranco de Fataga area on Gran Canaria island was used for some scenes of arid landscapes. When Ciri was traveling in the desert, the actress was actually in the Natural Dune Reserve of Maspalomas on Gran Canaria. Most of episode 6 was filmed on La Palma island.  [35]
+Filming of Season 1 concluded in Ogrodzieniec Castle in Poland. The ruins of this medieval castle, dating from the 1300's, were the backdrop for scenes including the fictional Vilgefortz of Roggeveen and Triss Merigold. The ruins were also included when shooting the Battle of Sodden Hill in the final episode of Season 1.[36][37] Filming for the first season wrapped in May 2019.[38]
+
+Music[edit]
+The original song "Toss a Coin to Your Witcher", composed by Sonya Belousova and Giona Ostinelli and sung by Jaskier (Batey) in the second episode, became a viral hit shortly after the series' release.[39] Users have created mods to patch the song into the video game adaptions of The Witcher.[40]
+
+Release[edit]
+In April 2019, Netflix's Ted Sarandos told investors in an earnings call that the series would be released in late 2019.[41] Netflix released the first teaser for the series at San Diego Comic-Con on July 19, 2019.[42][43] The first full trailer was revealed at Lucca Comics & Games on October 31, 2019.[44][45] Netflix released a final trailer on December 12, 2019.[46]
+The series premiered on December 20, 2019.[45]
+
+Reception[edit]
+Critical reception[edit]
+The review aggregator website Rotten Tomatoes reported a 66% approval rating for the first season, with an average rating of 6.06/10, based on 83 reviews. The website's critical consensus reads: "Though the world of The Witcher at times feels only half-formed, Henry Cavill brings brawny charisma to a series teeming with subversive fantasy elements and dark humor."[47] Metacritic, which uses a weighted average, assigned the season a score of 53 out of 100 based on 17 critics, indicating "mixed or average reviews".[48]
+In a positive review of the first season, Erik Kain of Forbes wrote, "If you're looking for an original dark fantasy with some horror elements, some bare skin and plenty of blood and gore (and monsters) look no further.",[49] while James Whitbrook of io9 said, "if you are willing to sit through those trudging opening episodes, punctuated by a cool fight here or an intriguing character scene there, The Witcher slowly but surely finds itself a fantastical slice of bloody, schlocky fun."[50] Conversely, Entertainment Weekly critic Darren Franich said, "my destiny is to never watch this borefest ever again,” awarding the first season an F rating.[51] Franich drew criticism when he confessed to skipping  the fifth episode.[52]
+Author Andrzej Sapkowski, commenting favorably on the show, stated, "I was more than happy with Henry Cavill's appearance as The Witcher. He's a real professional. Just as Viggo Mortensen gave his face to Aragorn (in The Lord of the Rings), so Henry gave his to Geralt — and it shall be forever so.” Sapkowski added, "I shall be happy if the viewers — and readers — take anything away, anything that shall enrich them in some way. Also, I sincerely hope to leave the viewers — and readers — hot. In every sense. Not tepid, not lukewarm."[53]
+
+Audience viewership[edit]
+According to Parrot Analytics, The Witcher, in its US debut, was the third most "in demand" original streaming series, behind Stranger Things and The Mandalorian.[54] Parrot's process measures "demand expressions", which is "its globally standardized TV-demand measurement unit that reflects the desire, engagement, and viewership of a series weighted by importance."[55] On December 31, 2019, Parrot Analytics reported that The Witcher became the most-in-demand TV series in the world, across all platforms.[56]
+On December 30, 2019, Netflix issued a number of official lists, including the Most Popular TV Shows of 2019. The series was among the most viewed in the U.S. market, where The Witcher was ranked second among series.[57] On January 21, 2020, Netflix announced that the first season had been viewed by over 76 million viewers on its service, within its first month of release.[58] Netflix had recently changed its viewership metric, from 70% of an episode under the previous metric, down to two minutes under the new metric. The new metric gives viewing figures 35% higher on average than the previous one.[59] The 76 million views in its first month based on the new metric (at least two minutes or more) is the largest for a Netflix series launch since the introduction of the new viewership metric.[60][61]
+
+References[edit]
+
+
+^ Skrebels, Joe (May 17, 2017). "Netflix to Produce The Witcher TV Series". IGN. Archived from the original on September 23, 2019. Retrieved December 28, 2019..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "We started production of the series based on "The Witcher" in coop. with @NetflixUS and SeanDanielCompany". Twitter. May 17, 2017. Archived from the original on May 17, 2017. Retrieved December 28, 2019.
+
+^ a b c d e f Lodderhose, Diana (May 17, 2017). "Netflix To Produce 'The Witcher' TV Series". Deadline. Archived from the original on February 28, 2019. Retrieved July 1, 2019.
+
+^ a b c Točíková Vojteková, Zuzana (February 21, 2019). "Slovak Tax Incentives Lure British and US TV Series to Shoot in Slovakia". Filmneweurope. Archived from the original on February 21, 2019. Retrieved April 18, 2019.
+
+^ "The Witcher". stillking.com. Archived from the original on January 2, 2019. Retrieved January 1, 2019.
+
+^ "The Witcher". weacceptyou.com. Archived from the original on April 29, 2019. Retrieved March 22, 2019.
+
+^ "The Witcher". Cinesite. Archived from the original on March 22, 2019. Retrieved March 22, 2019.
+
+^ "T'The Witcher' Renewed for Season 2 at Netflix Ahead of Series Premiere". Atlas of Wonders. December 26, 2019. Archived from the original on November 13, 2019. Retrieved November 13, 2019.
+
+^ a b c d e f g h Rougeau, Michael (December 23, 2019). "The Witcher Books: Reading Order And Which Stories Inspired The Netflix Show". Gamespot. Archived from the original on December 26, 2019. Retrieved December 26, 2019.
+
+^ Boog, Jason (April 12, 2019). "The Netflix Literary Connection". Publisher Weekly. Archived from the original on April 20, 2019. Retrieved April 19, 2019.
+
+^ "The Witcher Saga: has Netflix found its Game of Thrones?". The Telegraph. May 17, 2017. Archived from the original on June 22, 2018. Retrieved July 1, 2019.
+
+^ Purchese, Robert (May 18, 2017). "The Witcher Netflix series begins production". Eurogamer. Archived from the original on November 23, 2018. Retrieved July 1, 2019.
+
+^ Holloway, Daniel (December 8, 2018). "Lauren Schmidt Hissrich to Adapt 'The Witcher' for Netflix (EXCLUSIVE)". Variety. Archived from the original on June 3, 2018. Retrieved January 13, 2018.
+
+^ Arif, Shabana (April 23, 2018). "The Witcher TV Show Will Be 8 Episodes Long, Likely Released in 2020". IGN. Archived from the original on September 8, 2018. Retrieved April 17, 2019.
+
+^ "Andrzej Sapkowski: Como o Este e o Oeste, "a adaptação e o original nunca se irão encontrar" - JPN" [Andrzej Sapkowski: Like the East and the West, "the adaptation and the original will never meet"]. jpn.up.pt (in Portuguese). December 18, 2017. Archived from the original on May 4, 2018. Retrieved May 5, 2018.
+
+^ Barragan, Karen (May 17, 2017). "The Witcher Saga coming to Netflix". Netflix Media Center. Archived from the original on May 20, 2017. Retrieved January 13, 2018.
+
+^ @LHissrich (April 13, 2018). "Na zdrowie!" (Tweet). Retrieved May 5, 2018 – via Twitter. 
+
+^ Lauren S. Hissrich [@LHissrich] (May 8, 2018). "Then rest easy. There are several Polish people on the creative team — starting with Mr Sapkowski" (Tweet). Retrieved May 8, 2018 – via Twitter. 
+
+^ Marc, Christopher (August 21, 2018). "Netflix's 'The Witcher' Series Adds 'The Gunman/American Assassin' Production Designer". Geeks WorldWide. Archived from the original on March 24, 2019. Retrieved July 1, 2019.
+
+^ Allen, Ben (July 1, 2019). "When is The Witcher released on Netflix? Who's in the cast, and what's going to happen?". Radio Times. Archived from the original on July 1, 2019.
+
+^ Schwartz, Ryan (November 13, 2019). "The Witcher Scores Early Season 2 Renewal at Netflix". TVLine. Archived from the original on November 19, 2019. Retrieved November 13, 2019.
+
+^ Otterson, Joe (November 13, 2019). "'The Witcher' Renewed for Season 2 at Netflix Ahead of Series Premiere". Variety. Archived from the original on December 17, 2019. Retrieved December 27, 2019.
+
+^ Abdulbaki, Mae (December 23, 2019). "How The Witcher Was Inspired By Christopher Nolan's Dunkirk". CinemaBlend. Archived from the original on December 26, 2019. Retrieved December 26, 2019.
+
+^ [1] Archived December 26, 2019, at the Wayback Machine "The Witcher's confusing timelines explained"] 'Gamespot'
+
+^ Hurley, Laura (December 5, 2019). "Why Netflix's The Witcher Doesn't Focus On Just Henry Cavill's Geralt In Season 1". CinemaBlend. Archived from the original on December 28, 2019. Retrieved December 26, 2019.
+
+^ Russell, Bradley (December 23, 2019). "The Witcher Netflix showrunner teases season 2: "There's a stronger drive to the story"". GamesRadar+. Archived from the original on December 26, 2019. Retrieved December 26, 2019.
+
+^ Whitbrook, James (September 4, 2018). "Henry Cavill Will Lead Netflix's Witcher Series as Geralt of Rivia". io9. Archived from the original on September 5, 2018. Retrieved September 4, 2018.
+
+^ Tassi, Paul (September 4, 2018). "Netflix's 'The Witcher' Series Finds Its Geralt In Henry Cavill". Forbes. Archived from the original on September 5, 2018. Retrieved September 4, 2018.
+
+^ Elderkin, Beth (July 23, 2019). "Here's Why The Witcher Auditioned 207 Other Guys For Geralt When Henry Cavill Was Right There". Gizmodo. Archived from the original on December 26, 2019. Retrieved December 26, 2019.
+
+^ Petski, Denise (October 10, 2018). "'The Witcher': Netflix Fantasy Drama Series Casts Its Females Leads Ciri & Yennefer". Deadline. Archived from the original on October 11, 2018. Retrieved October 22, 2018.
+
+^ a b Petski, Denise (October 31, 2018). "'The Witcher': First Look At Henry Cavill As Geralt Of Rivia; Netflix Rounds Out Cast As Production Begins". Deadline. Archived from the original on November 1, 2018. Retrieved October 13, 2018.
+
+^ Lauren S. Hissrich [@LHissrich] (April 21, 2018). "WE'LL BE SHOOTING IN EASTERN EUROPE. Yes! This show couldn't exist anyplace else. Period. Also, I just spent ten days surrounded by Slavic eye-candy. I MUST come back, soon" (Tweet). Retrieved December 29, 2019 – via Twitter. 
+
+^ "The Witcher Filming Locations Guide: Where was The Witcher filmed?". Atlas of Wonders. December 26, 2019. Retrieved January 12, 2020. The Witcher was filmed on location in Hungary, Austria, the Canary Islands (Spain) and Poland.
+
+^ Navarro, Nora (March 2, 2019). "'The Witcher' se rueda en Gran Canaria" ['The Witcher' is shot in Gran Canaria]. LA Provincia (in Spanish). Archived from the original on April 18, 2019. Retrieved April 18, 2019.
+
+^ "The Witcher Filming Locations Guide: Where was The Witcher filmed?". Atlas of Wonders. December 26, 2019. Retrieved January 12, 2020.
+
+^ "The Witcher Filming Locations Guide: Where was The Witcher filmed?". Atlas of Wonders. December 26, 2019. Retrieved January 12, 2020.
+
+^ Zagalski, Jakub (November 13, 2019). ""Wiedźmin": byliśmy na planie hitu Netfliksa. "Od początku chcieliśmy kręcić w Polsce"". teleshow.wp.pl (in Polish). Archived from the original on November 14, 2019. Retrieved November 14, 2019.
+
+^ Haas, Dylan (May 31, 2019). "Netflix's The Witcher Series Officially Wraps Production". Paste. Archived from the original on June 4, 2019. Retrieved July 1, 2019.
+
+^ France, Lisa Respers (January 1, 2020). "'The Witcher' has us singing 'Toss a Coin to Your Witcher'". CNN. Archived from the original on January 8, 2020. Retrieved January 6, 2020.
+
+^ Good, Owen (January 5, 2020). "The Witcher 3 mods bring Henry Cavill and 'Toss a Coin' to life in the game". Polygon. Archived from the original on January 7, 2020. Retrieved January 6, 2020.
+
+^ Crecente, Brian (April 17, 2019). "'The Witcher' Netflix Show Hits This Fall". Variety. Archived from the original on April 17, 2019. Retrieved April 17, 2019.
+
+^ Netflix (July 19, 2019), The Witcher | Official Teaser | Netflix, archived from the original on July 20, 2019, retrieved July 20, 2019
+
+^ Morton, Lauren (July 19, 2019). "The first trailer for Netflix's Witcher series is here". PC Gamer. Archived from the original on July 20, 2019. Retrieved July 20, 2019.
+
+^ "Netflix arriva a LC&G 2019". December 13, 2019. Archived from the original on October 17, 2019. Retrieved October 17, 2019.
+
+^ a b Gonzalez, Oscar (October 31, 2019). "Netflix's The Witcher begins streaming in December". Cnet. Archived from the original on October 31, 2019. Retrieved October 31, 2019.
+
+^ "THE WITCHER FINAL TRAILER NETFLIX". www.youtube.com. YouTube. Archived from the original on December 12, 2019. Retrieved December 12, 2019.
+
+^ "The Witcher: Season 1 (2019)". Rotten Tomatoes. Fandango. Archived from the original on December 18, 2019. Retrieved January 9, 2020.
+
+^ "The Witcher - Season 1 Reviews". Metacritic. Archived from the original on January 1, 2020. Retrieved January 3, 2020.
+
+^ "'The Witcher' Netflix TV Series Review: The Good, The Bad And The Monstrous". Forbes. Archived from the original on December 21, 2019. Retrieved December 22, 2019.
+
+^ "The Witcher Takes Way Too Damn Long to Get Interesting, But It Gets There". io9. Retrieved December 22, 2019.
+
+^ "Netflix's The Witcher is nakedly terrible: Review". Entertainment Weekly. Archived from the original on December 21, 2019. Retrieved December 21, 2019.
+
+^ Garbone, Gina (December 22, 2019). "Netflix's The Witcher Showrunner Had The Best Response To Bad Reviews". CinemaBlend. Archived from the original on December 27, 2019. Retrieved December 26, 2019.
+
+^ "How The Witcher Author Feels About Henry Cavill's New Netflix Series". CinemaBlend. December 21, 2019. Archived from the original on December 22, 2019. Retrieved December 23, 2019.
+
+^ "Netflix's 'The Witcher' is one of the biggest shows in the US despite poor reviews from critics". Business Insider. December 28, 2019. Retrieved December 30, 2019.
+
+^ "Analysts Say Netflix's 'The Witcher' Was The Third Biggest Streaming Original In Its US Debut". Forbes. Archived from the original on December 30, 2019. Retrieved December 30, 2019.
+
+^ "Netflix's 'The Witcher' dethroned 'The Mandalorian' as the biggest TV series in the world". Business Insider. December 31, 2019. Archived from the original on January 1, 2020. Retrieved January 1, 2020.
+
+^ "'Stranger Things 3,' 'The Witcher,' 'When They See Us' Among Netflix's Most Popular TV Shows in 2019". Variety. December 30, 2019. Archived from the original on December 31, 2019. Retrieved December 31, 2019.
+
+^ Hayes, Dade (January 21, 2020). "Netflix Calls 'The Witcher' Biggest New Show, Reveals Viewership Stats For 'You' & '6 Underground' As It Explains Ratings Methods". Deadline Hollywood. Retrieved January 23, 2020.
+
+^ Spangler, Todd (January 21, 2020). "'The Witcher' on Track to Be Netflix's Biggest TV Show Premiere Ever, Company Claims". Variety.
+
+^ Gartenberg, Chaim (January 21, 2020). "Netflix reveals that 76 million people watched at least two minutes of The Witcher". The Verge. Retrieved January 24, 2020.
+
+^ "Netflix's New Ratings Math Sacrifices Clarity for Flashy Numbers". The Hollywood Reporter. January 23, 2020. Retrieved January 24, 2020.
+
+
+External links[edit]
+The Witcher on IMDb
+The Witcher on Netflix
+vteThe Witcher by Andrzej SapkowskiBooks
+The Last Wish
+Sword of Destiny
+Blood of Elves
+Time of Contempt
+Baptism of Fire
+The Tower of the Swallow
+The Lady of the Lake
+Season of Storms
+Film and television
+The Hexer (film)
+The Hexer (Polish TV series)
+The Witcher (American TV series)
+Games
+The Witcher
+The Witcher 2: Assassins of Kings
+The Witcher Adventure Game
+The Witcher Battle Arena
+The Witcher 3: Wild Hunt
+Hearts of Stone
+Blood and Wine
+accolades
+Gwent: The Witcher Card Game
+Thronebreaker: The Witcher Tales
+Characters
+Geralt of Rivia
+Related
+Soulcalibur VI
+Monster Hunter: World
+Daemon X Machina
+"Toss a Coin to Your Witcher"
+
+ Book
+ Category
+
+vteNetflix original current seriesSince 2015
+Chef's Table
+F Is for Family
+Grace and Frankie
+Making a Murderer
+Since 2016
+3%
+Ask the StoryBots
+Beat Bugs
+Brown Nation
+The Crown
+Fuller House
+Kulipari
+Last Chance U
+Stranger Things
+StoryBots Super Songs
+Word Party
+Since 2017Live-actionEnglish
+13 Reasons Why
+Atypical
+Dear White People
+Free Rein
+Frontier
+GLOW
+Greenhouse Academy
+Mindhunter
+Ozark
+The Worst Witch
+Other
+Cable Girls
+Dark
+Ingobernable
+Suburra
+The Unknown Hitman: The Story of El Cholo Adrián
+Non-fiction
+Beyond Stranger Things
+Bill Nye Saves the World
+The Confession Tapes
+Jack Whitehall: Travels with My Father
+The Kindness Diaries
+Shot in the Dark
+The Standups
+The Toys That Made Us
+Ultimate Beastmaster
+Animation
+Big Mouth
+Castlevania
+Legend Quest
+Spirit Riding Free
+Stretch Armstrong and the Flex Fighters
+Super Monsters
+Edgar Rice Burroughs’ Tarzan and Jane
+True and the Rainbow Kingdom
+Since 2018Live-actionEnglish
+Alexa & Katie
+Altered Carbon
+Chilling Adventures of Sabrina
+The Haunting of Hill House
+Insatiable
+Kiss Me First
+The Kominsky Method
+The Letdown
+Little Things
+Lost in Space
+The New Legends of Monkey
+On My Block
+Prince of Peoria
+Tidelands
+Other
+1983
+Baby
+Busted!
+Diablero
+Dogs of Berlin
+Elite
+Immortals
+The House of Flowers
+The Mechanism
+Perfume
+The Protector
+The Rain
+Sacred Games
+Samantha!
+Selection Day
+Undercover Law
+Wild District
+YG Future Strategy Office
+Non-fiction
+7 Days Out
+Afflicted
+Amazing Interiors
+Battlefish
+Brainchild
+Cooking on High
+Dancing Queen
+Dark Tourist
+Death by Magic
+Dirty Money
+Dogs
+Explained
+Fastest Car
+The Final Table
+The Fix
+Flint Town
+Girls Incarcerated
+Haunted
+The Innocent Man
+A Little Help with Carol Burnett
+Magic for Humans
+Marching Orders
+Murder Mountain
+My Next Guest Needs No Introduction...
+Nailed It!
+Narcos: Mexico
+Nicky Jam: El Ganador
+Patriot Act with Hasan Minhaj
+Queer Eye
+Salt Fat Acid Heat
+The Staircase
+Stay Here
+Sugar Rush
+Sunderland 'Til I Die
+Ugly Delicious
+Vai Anitta
+Westside
+The Who Was? Show
+Wild Wild Country
+Animation
+Aggretsuko
+B: The Beginning
+Baki
+Barbie Dreamhouse Adventures
+The Boss Baby: Back in Business
+Cupcake & Dino: General Services
+Disenchantment
+The Dragon Prince
+The Epic Tales of Captain Underpants
+Harvey Girls Forever!
+Hero Mask
+Hilda
+The Hollow
+Llama Llama
+Lost Song
+Motown Magic
+Paradise PD
+ReBoot: The Guardian Code
+She-Ra and the Princesses of Power
+Spy Kids: Mission Critical
+Swordgai: The Animation
+Treehouse Detectives
+Trolls: The Beat Goes On!
+Since 2019Live-actionEnglish
+After Life
+Another Life
+Black Summer
+Bonding
+Criminal: UK
+The Dark Crystal: Age of Resistance
+Dead to Me
+Family Reunion
+Heartstrings
+Historical Roasts
+Huge in France
+I Think You Should Leave with Tim Robinson
+It's Bruno!
+Living with Yourself
+Lunatics
+Malibu Rescue
+Merry Happy Whatever
+Mr. Iglesias
+Northern Rescue
+The Order
+The Politician
+Raising Dion
+Russian Doll
+Sex Education
+Shadow
+The Society
+Special
+Team Kaylie
+Trinkets
+Turn Up Charlie
+The Umbrella Academy
+V Wars
+ Virgin River
+The Witcher
+What/If
+Wu Assassins
+Other
+Ainori Love Wagon: African Journey
+Bard of Blood
+Better than Us
+Bolívar
+The Chosen One
+The Club
+Criminal: France
+Criminal: Germany
+Criminal: Spain
+Delhi Crime
+Dollar
+El Dragón: Return of a Warrior
+Family Business
+The Gift
+Go! Live Your Way
+Hache
+How to Sell Drugs Online (Fast)
+Jinn
+Kingdom
+The Mafia Dolls
+Marianne
+Monarca
+Most Beautiful Thing
+My First First Love
+The Naked Director
+Love Alarm
+Osmosis
+Persona
+Quicksand
+The Neighbor
+The Road to Love
+Sintonia
+Skylines
+We Are the Wave
+Yankee
+Non-fiction
+Awake: The Million Dollar Game
+Basketball or Nothing
+Blown Away
+The Chef Show
+Cricket Fever: Mumbai Indians
+Dating Around
+Diagnosis
+Flinch
+Formula 1: Drive to Survive
+Happy Jail
+Hyperdrive
+Killer Ratings
+Living Undocumented
+Our Planet
+Rhythm + Flow
+Styling Hollywood
+Terrace House: Tokyo 2019–2020
+Tidying Up with Marie Kondo
+Trigger Warning with Killer Mike
+Animation
+7 Seeds
+Archibald's Next Big Thing
+Cannon Busters
+Carmen Sandiego
+Charlie's Colorforms City
+Chip and Potato
+DreamWorks Dragons: Rescue Riders
+Fast & Furious Spy Racers
+Green Eggs and Ham
+Kengan Ashura
+Knights of the Zodiac: Saint Seiya
+The Last Kids on Earth
+Love, Death & Robots
+Pinky Malinky
+Rilakkuma and Kaoru
+Seis Manos
+Twelve Forever
+Ultraman
+YooHoo to the Rescue
+Since 2020Live-actionEnglish
+AJ and the Queen
+Dracula
+The Healing Powers of Dude
+Medical Police
+Messiah
+October Faction
+Other
+Giri/Haji
+Ares
+You Cannot Hide
+Non-fiction
+The Circle US
+The Goop Lab
+Rise of Empires: Ottoman
+Animation
+Kipo and the Age of Wonderbeasts
+
+ Continuation series template
+ Ended series template
+ Specials template
+ Upcoming series template
+
+
+
+

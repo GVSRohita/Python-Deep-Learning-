@@ -1,0 +1,23 @@
+<html>
+<head>
+  <style>
+    div {
+        background-image: url('https://www.microdrips.com/en/blog/wp-content/uploads/2017/05/preparing-seedlings-1200x800.jpg');
+        height: 750px;
+        width: 1400px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    </style>
+</head>
+  <body>
+
+  <form action = "{{ url_for('predict') }}" method = "POST" enctype = "multipart/form-data">
+    <input type = "file" name = "file" />
+    <input type = "submit"/>
+  </form>
+  <div>
+  </div>
+  </body>
+</html>
